@@ -1,0 +1,9 @@
+[submodule "reference/Real-Time-Voice-Cloning"]
+	path = reference/Real-Time-Voice-Cloning
+	url = https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
+[submodule "reference/LiveSpeechPortraits"]
+	path = reference/LiveSpeechPortraits
+	url = https://github.com/YuanxunLu/LiveSpeechPortraits.git
+[submodule "reference/first-order-model"]
+	path = reference/first-order-model
+	url = https://github.com/AliaksandrSiarohin/first-order-model.git
